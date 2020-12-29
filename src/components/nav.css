@@ -1,0 +1,13 @@
+nav{
+    background-color: dimgray;
+    height: 40px;
+}
+
+li{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    width: 100px;
+}
